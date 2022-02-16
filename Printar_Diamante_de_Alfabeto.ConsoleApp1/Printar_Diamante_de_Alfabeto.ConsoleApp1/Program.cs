@@ -30,7 +30,9 @@ namespace ExercicioDiamante.ConsoleApp
 
                 }
 
+               //Decrementar espaços da esquerda
                 numero_de_espacos_esquerda--;
+
                 if (i == 0)
                 {
                    
