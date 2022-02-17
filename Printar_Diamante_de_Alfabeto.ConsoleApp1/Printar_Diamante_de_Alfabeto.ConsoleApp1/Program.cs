@@ -11,7 +11,7 @@ namespace ExercicioDiamante.ConsoleApp
             // Variaveis 
 
             string alfabeto = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-            string teste123;
+           
 
             //Converter o valor pra char   
             char[] arAlfabeto = alfabeto.ToCharArray();
